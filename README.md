@@ -1,0 +1,2 @@
+# SmokeTest
+Validate GitHub functions
